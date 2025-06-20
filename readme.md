@@ -1,4 +1,4 @@
-# 🧠 2D to 3D Medical Image Colorization using AI
+# 🧠 3D CONSTRUCTION AND AUTOMATED COLORIZATION OF MEDICAL IMAGES USING DEEP LEARNING
 ---
 
 ## 📦 Requirements
