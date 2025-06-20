@@ -1,0 +1,6 @@
+numpy
+opencv-python
+SimpleITK
+matplotlib
+PyQt5
+
